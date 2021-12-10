@@ -1,0 +1,14 @@
+name: boring_avatars
+description: Boring avatars is a tiny Dart library that generates custom, SVG-based avatars from any username and color palette.
+version: 1.0.0
+homepage: https://github.com/xioxin/boring_avatars
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
